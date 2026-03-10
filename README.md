@@ -67,9 +67,9 @@
 ## étape finale : Verification avec nmap sur ma VM linux
 <img width="1920" height="955" alt="fin" src="https://github.com/user-attachments/assets/007219b8-16cb-4a8e-a966-a3459cf3a2bf" />
 
-### nous voyons bien nos 2 port (139 et 445 )
+- nous voyons bien nos 2 port (139 et 445 )
 
-- resultat : Nos 2 ports sont ouvert !
+- **resultat** : Nos 2 ports sont ouvert !
 
 
 
